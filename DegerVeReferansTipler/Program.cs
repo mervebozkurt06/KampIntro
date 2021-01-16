@@ -15,6 +15,8 @@ namespace DegerVeReferansTipler
 
             Console.WriteLine(sayi1); //int decimal float double bool -> değer tip --> stack te int sayi1=10
 
+
+
             int[] sayilar1 = new int[] { 10, 20, 30 };
             int[] sayilar2 = new int[] { 100, 200, 300 };
 
